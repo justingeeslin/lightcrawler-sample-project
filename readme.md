@@ -1,10 +1,10 @@
-## Lightcrawler Sample Project
+# Lightcrawler Sample Project
 
-### Running
+## Running
 `npm start`
 
 
-### Configuration
+## Configuration
 See lightcrawler-config.json.
 
 To set the URL to crawl, set it in package.json.
